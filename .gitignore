@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.so
+.Python
+env/
+.env
+.venv
+venv/
+ENV/
+.idea/
+.vscode/
+*.swp
+.DS_Store 
